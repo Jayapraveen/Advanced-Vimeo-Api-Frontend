@@ -1,2 +1,2 @@
 # Advanced-Vimeo-Api-Frontend
-Frontend to use the advanced vimeo api
+Frontend to view videos using the advanced vimeo api
